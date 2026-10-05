@@ -1,0 +1,6 @@
+{
+  "name": "Arushi AI Assistant",
+  "description": "Multilingual voice AI assistant with Gemini Live voice-to-voice and native Android app control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
